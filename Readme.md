@@ -1,1 +1,0 @@
-For specific descriptions and usage of functions, please read the original file for help.
