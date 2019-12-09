@@ -8,7 +8,7 @@ setup(
   author = 'Richard Shu',                   # Type in your name
   author_email = 'richardshuv@icloud.com',      # Type in your E-Mail
   url = 'https://github.com/shshu526/autocomplete_richardshu',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/shshu526/autocomplete_richardshu/archive/V0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/shshu526/autocomplete_richardshu/archive/V0.2.tar.gz',    # I explain this later on
   keywords = ['Autocomplete', 'Trie', 'Insert', 'Delete'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pytest'
