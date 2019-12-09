@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 import queue
-import timeit
-import cProfile
-from setuptools import setup
 # https://www.geeksforgeeks.org/python-program-to-sort-a-list-of-tuples-by-second-item/
 # https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1
 
