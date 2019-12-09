@@ -1,3 +1,2 @@
-from autocomplete_richardshu.autocomplete_me import Trie
 from autocomplete_richardshu.autocomplete_me import TrieNode
-
+from autocomplete_richardshu.autocomplete_me import Trie
